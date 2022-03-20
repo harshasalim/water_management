@@ -1,3 +1,5 @@
+# Geektrust problem - Water Management
+Refer [here](https://www.geektrust.com/coding/detailed/water-management) for the problem statement.
 
 # Pre-requisites
 * Java 1.8/1.11/1.15
@@ -26,3 +28,8 @@ in the build.gradle if your main class has changed.
  # How to execute the unit tests
 
  `gradle clean test --no-daemon` will execute the unit test cases.
+
+# Help
+
+You can refer our help documents [here](https://help.geektrust.in)
+You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
